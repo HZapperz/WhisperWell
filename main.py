@@ -4,7 +4,7 @@ import openai
 import json
 import pandas as pd
 
-openai.api_key = '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'
+openai.api_key = ''
 
 df = pd.DataFrame(columns=["Question", "Response", "Prescence", "Frequency"])
 
