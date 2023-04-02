@@ -1,5 +1,5 @@
 # WhisperWell
-Project submission for Axxess Hackathon
+Project submission for Axxess Hackathon built by Akshaya Kummetha, Hamza Zulquernain, Garrett Norwine
 
 ## Inspiration
 Our journey began with in-depth conversations with Axxess stakeholders, which allowed us to identify critical pain points in the home healthcare industry. We realized that the key to improving patient care was to save time for healthcare professionals, and thus, we focused on developing an efficient and effective solution.
